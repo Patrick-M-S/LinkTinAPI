@@ -8,5 +8,7 @@ public class MyDbContext : DbContext
     }
 
     public DbSet<UserModel> UserRegister { get; set; }
+    public DbSet<ProductModel> ProductRegister { get; set; }
+
 
 }
