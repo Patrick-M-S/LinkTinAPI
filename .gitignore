@@ -29,3 +29,5 @@
 /obj/project.nuget.cache
 /.editorconfig
 /LinkTinAPI.csproj.user
+/obj/
+/bin/
